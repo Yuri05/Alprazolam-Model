@@ -2308,7 +2308,7 @@
           }
         },
         {
-          "Path": "Applications|IV_0.5mg_2min|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|IV_0.5mg_2min|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 2.0,
           "Unit": "min"
         },
@@ -2709,7 +2709,7 @@
           }
         },
         {
-          "Path": "Applications|IV_2mg_2min|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|IV_2mg_2min|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 2.0,
           "Unit": "min"
         },
@@ -3110,12 +3110,12 @@
           }
         },
         {
-          "Path": "Applications|IV_1mg_2min_0.576mg_8h|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|IV_1mg_2min_0.576mg_8h|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 2.0,
           "Unit": "min"
         },
         {
-          "Path": "Applications|IV_1mg_2min_0.576mg_8h|Application_2|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|IV_1mg_2min_0.576mg_8h|Application_2|ProtocolSchemaItem|Infusion time",
           "Value": 8.0,
           "Unit": "h"
         },
@@ -4359,7 +4359,7 @@
           }
         },
         {
-          "Path": "Applications|IV_1mg_1min|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|IV_1mg_1min|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 1.0,
           "Unit": "min"
         },
@@ -4760,7 +4760,7 @@
           }
         },
         {
-          "Path": "Applications|IV_0.5mg_1min|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|IV_0.5mg_1min|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 1.0,
           "Unit": "min"
         },
@@ -5161,7 +5161,7 @@
           }
         },
         {
-          "Path": "Applications|IV_1mg_1min|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|IV_1mg_1min|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 1.0,
           "Unit": "min"
         },
@@ -5562,7 +5562,7 @@
           }
         },
         {
-          "Path": "Applications|IV_1mg_30min|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|IV_1mg_30min|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 30.0,
           "Unit": "min"
         },
@@ -5963,7 +5963,7 @@
           }
         },
         {
-          "Path": "Applications|IV_2mg_2min|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|IV_2mg_2min|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 2.0,
           "Unit": "min"
         },
@@ -6355,7 +6355,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|PO_0.5mg|Xanax_IR|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_0.5mg|Xanax_IR|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -6865,7 +6865,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|PO_1mg|Xanax_IR|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_1mg|Xanax_IR|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -7633,7 +7633,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|PO_2mg|Xanax_IR|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_2mg|Xanax_IR|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -8179,7 +8179,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|PO_0.8mg|Solanax|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_0.8mg|Solanax|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -8913,82 +8913,82 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|PO_Fleishaker 1994 - Alprazolam 1 mg QID 4 days|Solanax|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -9778,9 +9778,9 @@
           "Scaling": "Linear",
           "IsFixed": true,
           "LinkedParameters": [
-            "PO_0.5mg|Applications|PO_0.5mg|Xanax_IR|Dissolution shape",
-            "PO_1mg|Applications|PO_1mg|Xanax_IR|Dissolution shape",
-            "PO_2mg|Applications|PO_2mg|Xanax_IR|Dissolution shape"
+            "PO_0.5mg|Events|PO_0.5mg|Xanax_IR|Dissolution shape",
+            "PO_1mg|Events|PO_1mg|Xanax_IR|Dissolution shape",
+            "PO_2mg|Events|PO_2mg|Xanax_IR|Dissolution shape"
           ],
           "Parameters": [
             {
@@ -9801,9 +9801,9 @@
           "Name": "Dissolution time (50% dissolved) - Xanax",
           "Scaling": "Log",
           "LinkedParameters": [
-            "PO_0.5mg|Applications|PO_0.5mg|Xanax_IR|Dissolution time (50% dissolved)",
-            "PO_1mg|Applications|PO_1mg|Xanax_IR|Dissolution time (50% dissolved)",
-            "PO_2mg|Applications|PO_2mg|Xanax_IR|Dissolution time (50% dissolved)"
+            "PO_0.5mg|Events|PO_0.5mg|Xanax_IR|Dissolution time (50% dissolved)",
+            "PO_1mg|Events|PO_1mg|Xanax_IR|Dissolution time (50% dissolved)",
+            "PO_2mg|Events|PO_2mg|Xanax_IR|Dissolution time (50% dissolved)"
           ],
           "Parameters": [
             {
@@ -9828,7 +9828,7 @@
           "Scaling": "Linear",
           "IsFixed": true,
           "LinkedParameters": [
-            "PO_0.8mg|Applications|PO_0.8mg|Solanax|Dissolution shape"
+            "PO_0.8mg|Events|PO_0.8mg|Solanax|Dissolution shape"
           ],
           "Parameters": [
             {
@@ -9849,7 +9849,7 @@
           "Name": "Dissolution time (50% dissolved) - Solanax",
           "Scaling": "Log",
           "LinkedParameters": [
-            "PO_0.8mg|Applications|PO_0.8mg|Solanax|Dissolution time (50% dissolved)"
+            "PO_0.8mg|Events|PO_0.8mg|Solanax|Dissolution time (50% dissolved)"
           ],
           "Parameters": [
             {
