@@ -676,35 +676,21 @@
                                 "Project": "Alprazolam",
                                 "Simulation": "Adams1984_IV_0.25mg",
                                 "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Adams 1984 - 0.25 mg, Individual 1 - Alprazolam - IV - 0.25 mg - Plasma - indiv.",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "Adams1984_IV_0.25mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Adams 1984 - 0.25 mg, Individual 2 - Alprazolam - IV - 0.25 mg - Plasma - indiv.",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "Adams1984_IV_4mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Adams 1984 - 4 mg, Individual 1 - Alprazolam - IV - 4 mg - Plasma - indiv.",
+                                "ObservedData": [
+                                    "Adams 1984 - 0.25 mg, Individual 1 - Alprazolam - IV - 0.25 mg - Plasma - indiv.",
+                                    "Adams 1984 - 0.25 mg, Individual 2 - Alprazolam - IV - 0.25 mg - Plasma - indiv."
+                                ],
                                 "Color": "#1f78b4"
                             },
                             {
                                 "Project": "Alprazolam",
                                 "Simulation": "Adams1984_IV_4mg",
                                 "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Adams 1984 - 4 mg, Individual 2 - Alprazolam - IV - 4 mg - Plasma - indiv.",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "Adams1984_IV_4mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Adams 1984 - 4 mg, Individual 3 - Alprazolam - IV - 4 mg - Plasma - indiv.",
+                                "ObservedData": [
+                                    "Adams 1984 - 4 mg, Individual 1 - Alprazolam - IV - 4 mg - Plasma - indiv.",
+                                    "Adams 1984 - 4 mg, Individual 2 - Alprazolam - IV - 4 mg - Plasma - indiv.",
+                                    "Adams 1984 - 4 mg, Individual 3 - Alprazolam - IV - 4 mg - Plasma - indiv."
+                                ],
                                 "Color": "#1f78b4"
                             },
                             {
@@ -773,119 +759,41 @@
                                 "Project": "Alprazolam",
                                 "Simulation": "PO_0.5mg",
                                 "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Lin 1988 - Oral administration, Caucasian subjects - Alprazolam - PO - 0.5 mg - Plasma - agg. (n=14)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_0.5mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Schmith 1991 - Normal subjects 0.5 mg - Alprazolam - PO - 0.5 mg - Plasma - agg. (n=12)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_0.8mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Yasui 1996 - Treatment with placebo - Alprazolam - PO - 0.8 mg - Plasma - agg. (n=12)",
+                                "ObservedData": [
+                                    "Lin 1988 - Oral administration, Caucasian subjects - Alprazolam - PO - 0.5 mg - Plasma - agg. (n=14)",
+                                    "Schmith 1991 - Normal subjects 0.5 mg - Alprazolam - PO - 0.5 mg - Plasma - agg. (n=12)"
+                                ],
                                 "Color": "#1f78b4"
                             },
                             {
                                 "Project": "Alprazolam",
                                 "Simulation": "PO_0.8mg",
                                 "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Yasui 1998 - Alprazolam with placebo - Alprazolam - PO - 0.8 mg - Plasma - agg. (n=10)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_0.8mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Yasui 2000 - Alprazolam with water - Alprazolam - PO - 0.8 mg - Plasma - agg. (n=8)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_1mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Eller 1990 - Treatment C (fasting IR) - Alprazolam - PO - 1 mg - Plasma - agg. (n=21)",
+                                "ObservedData": [
+                                    "Yasui 1996 - Treatment with placebo - Alprazolam - PO - 0.8 mg - Plasma - agg. (n=12)",
+                                    "Yasui 1998 - Alprazolam with placebo - Alprazolam - PO - 0.8 mg - Plasma - agg. (n=10)",
+                                    "Yasui 2000 - Alprazolam with water - Alprazolam - PO - 0.8 mg - Plasma - agg. (n=8)"
+                                ],
                                 "Color": "#1f78b4"
                             },
                             {
                                 "Project": "Alprazolam",
                                 "Simulation": "PO_1mg",
                                 "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Friedman 1991 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=22)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_1mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Greenblatt 1988 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_1mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Greenblatt 1992 - Alprazolam group, Placebo first, Fluoxetine second - Alprazolam - PO - 1 mg - Plasma - agg. (n=11)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_1mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Greenblatt 1998b - Alprazolam alone (Trial A) - Alprazolam - PO - 1 mg - Plasma - agg. (n=7)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_1mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Greenblatt 2000 - Control - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_1mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Juhl 1984 - Healthy control group - Alprazolam - PO - 1 mg - Plasma - agg. (n=17)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_1mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kaplan 1998 - Young - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_1mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kirkwood 1991 - Men - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_1mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Schmider 1999 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=9)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_1mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Smith 1984 - Oral administration - Alprazolam - PO - 1 mg - Plasma - agg. (n=6)",
-                                "Color": "#1f78b4"
-                            },
-                            {
-                                "Project": "Alprazolam",
-                                "Simulation": "PO_1mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alprazolam|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Wennerholm 2005 - Figure 1 - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)",
+                                "ObservedData": [
+                                    "Eller 1990 - Treatment C (fasting IR) - Alprazolam - PO - 1 mg - Plasma - agg. (n=21)",
+                                    "Friedman 1991 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=22)",
+                                    "Greenblatt 1988 - Alprazolam group - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)",
+                                    "Greenblatt 1992 - Alprazolam group, Placebo first, Fluoxetine second - Alprazolam - PO - 1 mg - Plasma - agg. (n=11)",
+                                    "Greenblatt 1998b - Alprazolam alone (Trial A) - Alprazolam - PO - 1 mg - Plasma - agg. (n=7)",
+                                    "Greenblatt 2000 - Control - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)",
+                                    "Juhl 1984 - Healthy control group - Alprazolam - PO - 1 mg - Plasma - agg. (n=17)",
+                                    "Kaplan 1998 - Young - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)",
+                                    "Smith 1984 - Oral administration - Alprazolam - PO - 1 mg - Plasma - agg. (n=6)",
+                                    "Schmider 1999 - Alprazolam alone - Alprazolam - PO - 1 mg - Plasma - agg. (n=9)",
+                                    "Kirkwood 1991 - Men - Alprazolam - PO - 1 mg - Plasma - agg. (n=8)",
+                                    "Wennerholm 2005 - Figure 1 - Alprazolam - PO - 1 mg - Plasma - agg. (n=12)"
+                                ],
                                 "Color": "#1f78b4"
                             },
                             {
