@@ -10,7 +10,7 @@
 
 | Version                                         | 2.0-OSP12.0                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------ |
-| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Alprazolam-Model/releases/tag/v2.0 |
+| based on *Model Snapshot* and *Evaluation Plan* |  |
 | OSP Version                                     | 12.0                                                          |
 | Qualification Framework Version                 | 3.3                                                          |
 
